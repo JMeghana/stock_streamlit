@@ -14,9 +14,11 @@
 
 ## How to Use
 
-1. Select Stock: Enter the stock symbol or company name in the search bar to fetch the latest information.
+1. Select the stock symbol or company name in the search bar.
 
-2. View Charts: Explore the interactive charts with various time frames and technical indicators.
+2. Select Start Date and End Date. 
+
+3. Explore the interactive charts with various time frames and technical indicators.
 
 ## Demo
 
