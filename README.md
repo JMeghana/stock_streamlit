@@ -23,7 +23,10 @@
 You can access the live demo of StockApp by visiting the following link:
 [StockApp - Live Demo](https://stockapp-dlzhgaezg83u44awcdqkrg.streamlit.app/)
 
-## Installation
+## How to Run
 
 ```bash
+git clone https://github.com/JMeghana/stock_streamlit.git
+cd stock_streamlit
 pip install -r requirements.txt
+streamlit run stream_app.py
