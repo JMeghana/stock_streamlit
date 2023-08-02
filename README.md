@@ -29,6 +29,6 @@ You can access the live demo of StockApp by visiting the following link:
 
 ```bash
 git clone https://github.com/JMeghana/stock_market_analyser_streamlit.git
-cd stock_streamlit
+cd stock_market_analyser_streamlit
 pip install -r requirements.txt
 streamlit run stream_app.py
